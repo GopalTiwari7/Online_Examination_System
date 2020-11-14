@@ -17,6 +17,11 @@ h2{
     color:rgb(120, 112, 226);
 
 }
+#para{
+    margin: 15px 15px;
+    padding: 20px;
+    font-size: 25px;
+}
 .info{
     width: 95%;
     text-align: center;
@@ -46,6 +51,7 @@ h2{
 .info>#info-div>p{
     margin:32px 30px;
     display:block;
+    font-size: 20px;
 }
 .info>#info-div:hover{
     background-color:rgb(81, 105, 214);
